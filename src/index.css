@@ -1,0 +1,54 @@
+.content {
+  padding: 2rem 0;
+}
+
+.app-wrap {
+  border: 1px solid #212529;
+  padding: 0;
+}
+
+.app-title {
+  background-color: #212529;
+  color: #fff;
+  padding: 10px;
+}
+
+form {
+  padding: 10px;
+}
+
+.boxResult {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #212529;
+  font-weight: 700;
+}
+
+.textResult {
+  text-align: center;
+  font-style: italic;
+  padding: 10px;
+}
+
+.result-container {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.wAuto {
+  width: auto;
+}
+
+.w20 {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.separated {
+  display: flex;
+  justify-content: space-around;
+}
